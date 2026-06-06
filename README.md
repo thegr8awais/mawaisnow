@@ -1,14 +1,14 @@
 # Muhammad Awais
 
-Hi! I'm **Full Stack Developer**. mainly in Lamp environment, PHP and open source framework Laravel. I’m proficient in Laravel, Angular/Vue. My mission is to provide professional and high quality services that meet expectations.
+Hi! I'm **Full Stack Developer**. mainly in Lamp environment, PHP and open source framework Laravel. I’m proficient in Laravel, Vue and Tailwind CSS. My mission is to provide professional and high quality services that meet expectations.
 
 
 
 
-## I have experience in a number of different areas. Have a [look](https://awaissharif.com/) at what I'm working on right now.
+## I have experience in several different areas. Have a [look](https://awaissharif.com/) at what I'm working on right now.
  
 
-## What people says... 
+## What people say... 
 
 > _This was my first experience with UpWork. I am so luck to have found M Awais M Sharif, he was fantastic all around. I can't say enough great things about him. I plan to use him for many more projects in the future. I would highly recommend his services._
 > *Dan Buettner*
